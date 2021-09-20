@@ -34,7 +34,7 @@ Python is the programming language used in the example code (version 2.7 and hig
 ● A blink should last between 200 and 300 milliseconds.</br>
 ● A sleepy blink would last 800-900 milliseconds.</br>
 
-![image](https://user-images.githubusercontent.com/72935128/134086878-7c085a1a-849c-4e1b-a87c-7960d2f247fb.png)
+![eye_aspect_ratio](https://user-images.githubusercontent.com/72935128/134087408-e96058b8-67cd-49d6-a669-35168b5a8518.PNG)
 
 ## Application
 
